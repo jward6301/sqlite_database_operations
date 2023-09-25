@@ -4,7 +4,7 @@ HHA 504 Week 3 Assignment
 ## 1. Details on the datasets
   * The data sets utilized inlcuded a dataset from Stony Brook Hospital, proivded     by Professor Williams and a dataset found online from NY Presbyterian Hospital.     The NYP data set was utlized as many other familiar hopsitals were too large
 
-## 2. account of the exploratory data analysis process
+## 2. Account of the exploratory data analysis process
   * Missing values and columns were deleted and all column names were brought to       simple format for both databases.
   * Basic Statistics were conducted for both databases, this included mean, median,   mode, standard deviation, IQR and others. .describe() was used. 
   * data distribution, missing values, and basic statistics
