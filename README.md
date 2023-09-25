@@ -6,7 +6,7 @@ HHA 504 Week 3 Assignment
 
 ## 2. account of the exploratory data analysis process
   * Missing values and columns were deleted and all column names were brought to       simple format for both databases.
-  * Basic Statistics were conducted for both databases, this included mean, median,   mode, standard deviation, IQR and others. .describe() was used. 
+  * Basic Statistics were conducted for both databases, this included mean, median,   mode, standard deviation, IQR and others. (.describe()) was used. 
   * data distribution, missing values, and basic statistics
   * Data distribution was viewed for both databases using histograms focused on one   column for each. For the StonyBrook Hospital, the column used was gross charge.     For Presbyterian hospital, the maximum negotiated charges column was used. 
 
